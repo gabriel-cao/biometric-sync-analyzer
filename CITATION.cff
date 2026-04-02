@@ -1,12 +1,14 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Gabriel
-  given-names: Cao Di Marco
+- family-names: "Gabriel"
+  given-names: "Cao Di Marco"
 orcid: https://orcid.org/0000-0002-8546-9638
-- family-names: Daniela
-  given-names: Di Marco
+- family-names: "Daniela"
+  given-names: "Di Marco"
 orcid:
-title: BiometricSyncAnalyzer
+title: "BiometricSyncAnalyzer"
 version: v1.0.0
+doi:
 date-released: 2026-04-02
+url: "https://github.com/gabriel-cao/biometric-sync-analyzer"
