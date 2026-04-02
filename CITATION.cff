@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Si usás este software, por favor citalo como se indica."
+type: software
+title: "BiometricSyncAnalyzer"
+version: "1.0.0"
+date-released: "2026-04-01"
+abstract: >
+  Pipeline de análisis biométrico multimodal sincronizado que integra
+  biomecánica articular (BioAngles v1.2) con biometría facial (MediaPipe
+  Face Mesh 478 landmarks) sobre el mismo instante temporal en videos de
+  cuerpo entero en movimiento. Introduce el Índice de Coherencia Biométrica
+  Multimodal (ICBM) como métrica original de convergencia entre dominios.
+authors:
+  - family-names: "Cao Di Marco"
+    given-names: "Gabriel"
+    orcid: ""
+    affiliation: "CAECIHS, Universidad Abierta Interamericana — CONICET, Buenos Aires"
+    email: "drgabrielcao@hotmail.com"
+  - family-names: "Di Marco"
+    given-names: "Daniela"
+    affiliation: "Proyecto Voyager / Operation Knowledge"
+repository-code: ""
+license: "All Rights Reserved"
+keywords:
+  - biometría multimodal
+  - biomecánica
+  - análisis facial
+  - MediaPipe
+  - fases de marcha
+  - ICBM
+  - identidad biométrica
+  - inteligencia artificial
+  - Proyecto Voyager
